@@ -11,6 +11,15 @@ body {
   width: 100vw;
 }
 
+.home-page-2 { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1ec8aa;
+  height: 30vh;
+  width: 100vw;
+}
+
 .logo {
   width: 300px;
 }
